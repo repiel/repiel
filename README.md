@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloRepielword!😃😃&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&weight=100%&height=200&section=header&text=Repiel😃😃&fontSize=50&animation=twinkling)
 
 # <div align = 'center'>🎈Welcome My Github~</div>
 - practice and practice...
