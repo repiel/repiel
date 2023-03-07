@@ -88,19 +88,19 @@
 - 감성 일기
 
 ### 사회활동/교육이력/기타
-- 제 19회 일본 연극대회 우수상
 - k-digital 
 - 프로그래밍 언어 
     - Python 
     - SQL
     - R
-- 활용 프로그램 
 
 ### 스터디(직무 역량 개발)
 - 머신러닝
 - 딥러닝
-- 백앤드 
-- 프론트앤드 
-
-    
+- back-end : python, django, flask, oracle
+- front-end : html css,bootstrap, React, java_script, 반응형 웹(모바일환경구동) 등등
+    -LSTM
+    -CNN
+    -RNN
+    -YOLO
     
