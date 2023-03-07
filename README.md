@@ -61,6 +61,7 @@
 
 ### 프로젝트
 - 시각장애인을 위한 제품 음성안내 서비스
+    - 분석 산출물 : **[Repositories📘](https://github.com/Rudadak/FinalProject.git)** 
     - 수행기간
     - 프로젝트 설명
     - 사용 기술
