@@ -1,16 +1,16 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!😃😃&fontSize=50&animation=twinkling)
 
-<!--
-**repiel/repiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <div align = 'center'>🎈Welcome My Github~</div>
+- practice and practice...
+<br>
 
-Here are some ideas to get you started:
+# <div align = 'center'>🌍Stack</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌈Languages
+
+![Python](https://img.shields.io/badge/-Python-3178C6?style=flat-square&logo=Python&logoColor=white)
+![R](https://img.shields.io/badge/-R-A8B9CC?style=flat-square&logo=R&logoColor=black)
+![OracleSQL](https://img.shields.io/badge/-Oracle-FD5750?style=flat-square&logo=Oracle&logoColor=white)
+
+
+
