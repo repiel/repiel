@@ -60,42 +60,46 @@
 
 
 ### 프로젝트
-
 - 시각장애인을 위한 제품 음성안내 서비스
     - 분석 산출물 : **[Repositories📘](https://github.com/Rudadak/FinalProject.git)** 
     - 수행기간 : 2022.12.26 ~ 2023.02.15
     - 프로젝트 설명: 시각장애인을 위한 제품 음성안내 서비스 구축
     - 사용 기술 : React, React-Native, django, MySQL, Selenium
     - 사용 모델 : KoNLP, KeyBERT, Ko-senetence-BERT, STT, TTS, OCR 등 
-    - 수행 인원 : 정혜인(외 5명)  
-    
+    - 수행 인원 : 정혜인(외 5명)  <br>
+    <br>
 - Yolov5을 활용한 생활 폐기물 분류 시스템 개발 및 웹페이지 제작 
+    - 분석 산출물 : **[Repositories📘](https://github.com/repiel/deep-learn.git)** 
     - 수행기간 : 2022.12.13 ~ 2022.12.23
     - 프로젝트 설명 : 재활용 쓰레기를 한국의 재활용 분류 체계에 맞춰 이미지 분류
     - 사용 기술 : Flask, html5, css, bootstarp 등 
     - 사용 모델 : YOLO v5
-    - 수행 인원 : 정혜인(외 3명)
+    - 수행 인원 : 정혜인(외 3명)<br>
+    <br>
     
 - Kaggle | House price 예측(회귀분석)
+    - 분석 산출물 : **[Repositories📘](https://github.com/repiel/Machine-learning-project.git)** 
     - 수행기간 : 2022.11.14 ~ 2022.11.25
     - 프로젝트 설명 : Kaggle에 있는 House Price의 train, test데이터 셋을 가지고 미국 주택가격을 예측 분류(회귀분석)
     - 사용 기술
         - 전처리 : 라벨 인코딩, 로그변환, 원 핫 인코딩
         - 회귀분석 : 교차검증(k-fold), 파라미터 튜닝과 그리드서치, 앙상블, 보팅, 스태킹, 블랜딩
     - 수행 인원 : 정혜인(외 3명)
-    
+    <br>
 - EDA 및 공간 분석을 활용한 개방형 경로당 입지선정 (사용언어 R) 
+    - 분석 산출물 : **[Repositories📘](https://github.com/repiel/R-project.git)** 
     - 수행기간 : 2022.10.17 ~ 2022.10.21
     - 프로젝트 설명 : 노인의 고독사 문제와 학생수 감소의 문제를 해결하기 위해 가장 급속하게 학령인구가 줄고 있는 지역의 학교와 노인복지시설방안 통합 제안
     - 사용 기술 : Python, QGIS, Excel
     - 수행 인원 : 정혜인(외 3명)
-
+<br>
 - 감성 일기
+    - 분석 산출물 : **[Repositories📘](https://github.com/repiel/python-project.git)** 
     - 수행기간 : 2022.09.16 ~ 2022.09.21
     - 프로젝트 설명 : 음악과 함께 유저의 감정을 기록하는 다이어리
     - 사용 기술 : Python, Oracle
     - 수행 인원 : 정혜인(외 2명)
-
+<br>
 ### TOY 프로젝트
 - 은행 입출력시스템 만들기
 - 와인 종류 분류
@@ -108,6 +112,7 @@
     - R
 
 ### 스터디(직무 역량 개발)
+- 산출물 : **[Repositories📘](https://github.com/repiel/study.git)** 
 - 머신러닝
 - 딥러닝
 - back-end : python, django, flask, oracle
