@@ -8,7 +8,7 @@
 
 
 # Portfolio 📰
- **[PDF📘](https://drive.google.com/file/d/1xTXLGQFHrSpJ2h-TSAC3kbYKlY40LMJB/view?usp=sharing)**
+ **[PDF📘](https://drive.google.com/file/d/1HYT93C74TrbKrhv1nuxL0ltBbu2LYi6e/view?usp=sharing)**
 
 
 ## 🌈Languages
