@@ -117,8 +117,8 @@
 - 딥러닝
 - back-end : python, django, flask, oracle
 - front-end : html css,bootstrap, React, java_script, 반응형 웹(모바일환경구동) 등등
-    -LSTM
-    -CNN
-    -RNN
-    -YOLO
+- LSTM
+- CNN
+- RNN
+- YOLO
     
